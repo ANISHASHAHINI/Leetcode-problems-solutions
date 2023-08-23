@@ -3,7 +3,7 @@
 Welcome to my LeetCode problem solutions repository! Here, you'll find my solutions to various LeetCode coding challenges.
 ## About
 
-In this repository, I've documented my solutions to LeetCode problems. Each solution is stored in a separate folder, with the problem description, my solution code, and any additional explanations.
+In this repository, I've documented my solutions to LeetCode problems. Each solution is stored as the name of the problem file and my solution code. You can find the solution for the respective problem.
 
 ## Connect
 
